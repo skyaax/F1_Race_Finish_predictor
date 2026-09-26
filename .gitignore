@@ -3,4 +3,5 @@ __pycache__/
 *.py[cod]
 .venv/
 venv/
+
 fastf1_cache/
