@@ -1,3 +1,7 @@
 requests
 pandas
 fastf1
+fastapi
+uvicorn
+scikit-learn
+joblib

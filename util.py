@@ -12,3 +12,6 @@ def to_seconds(val):
         h, m, s = match.groups()
         return int(h) * 3600 + int(m) * 60 + float(s)
     return np.nan
+
+
+
