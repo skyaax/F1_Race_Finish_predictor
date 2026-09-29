@@ -5,3 +5,4 @@ fastapi
 uvicorn
 scikit-learn
 joblib
+gradio
